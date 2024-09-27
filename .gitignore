@@ -1,0 +1,9 @@
+cctv.spec
+coco.names
+ffmpeg_log.txt
+yolov4.cfg
+yolov4.weights
+recorded_videos
+captured_images
+dist
+env
